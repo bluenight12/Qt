@@ -1,0 +1,9 @@
+*.json
+*.user
+*.cmake
+Makefile
+*.exe
+
+build-Qt6-E3-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/
+build-Qt6-E3-Desktop_Qt_6_6_1_MinGW_64_bit-Release/
+build-QtPractice-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/
