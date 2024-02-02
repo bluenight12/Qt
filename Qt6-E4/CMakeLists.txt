@@ -15,6 +15,8 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core)
 add_executable(Qt6-E4
   main.cpp
   test.h test.cpp
+  cat.h cat.cpp
+
 )
 target_link_libraries(Qt6-E4 Qt${QT_VERSION_MAJOR}::Core)
 
